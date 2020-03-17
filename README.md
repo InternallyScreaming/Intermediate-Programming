@@ -1,2 +1,3 @@
 # Intermediate Programming
- Repository to host all my projects for my Intermediate Programming classes
+ Repository to host all my projects for my Intermediate Programming class
+
